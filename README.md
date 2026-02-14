@@ -212,7 +212,7 @@ Solana BigQuery Public Dataset(`crypto_solana_mainnet_us`)는 **2025년 3월 31�
 **A**: Public Datasets는 무료입니다. 쿼리 비용은 처리한 데이터 양에 따라 과금되지만, 샘플링과 기간 제한으로 비용을 관리할 수 있습니다. Dry Run으로 비용을 미리 확인할 수 있습니다. 자세한 내용은 [쿼리 실행 가이드](./docs/guides/query_execution.md) 참고.
 
 ### Q2. SQL을 잘 모르는데 괜찮나요?
-**A**: 학습용 샘플 쿼리(`templates/sql/`)를 제공하니, 주석을 읽고 이해하는 것부터 시작하세요. 막히면 슬랙 #core-questions 채널에 질문해주세요.
+**A**: 학습용 샘플 쿼리(`templates/sql/`)를 제공하니, 주석을 읽고 이해하는 것부터 시작하세요. 막히면 팀 커뮤니케이션 채널에 질문해주세요.
 
 ### Q3. 개별 지표는 뭘 해야 할까요?
 **A**: 본인이 관심 있는 블록체인 현상이나 질문을 데이터로 답하는 것이 좋습니다. 예: "Solana에서 가장 활발한 프로그램은?", "이더리움 가스비 급등 시점 분석" 등. [W1 온보딩 가이드](./docs/W1_onboarding.md) 참고.
@@ -229,9 +229,9 @@ Solana BigQuery Public Dataset(`crypto_solana_mainnet_us`)는 **2025년 3월 31�
 
 ## 커뮤니케이션
 
-- **질문**: 슬랙 #core-questions 채널
+- **질문**: 팀 커뮤니케이션 채널 (추후 안내)
 - **코드 리뷰**: GitHub Pull Request
-- **일일 체크인**: 디스코드 음성 채널 (선택)
+- **일일 체크인**: 온라인 미팅 (선택)
 
 ## 라이선스
 

@@ -193,7 +193,7 @@ print(response.text)
    - `members/[본인이름]/` 아래에 Python 스크립트 또는 노트북 저장  
    - 예: `members/yoonhee/gemini_summary.py` 또는 `gemini_weekly.ipynb`
 
-제출 방법: GitHub에 커밋 후 PR 생성 또는 슬랙 #core-questions 채널에 링크 공유
+제출 방법: GitHub에 커밋 후 PR 생성 또는 팀 커뮤니케이션 채널에 링크 공유
 
 **✅ 확인**: 스크린샷 + 코드가 `members/[본인이름]/` 에 있음
 

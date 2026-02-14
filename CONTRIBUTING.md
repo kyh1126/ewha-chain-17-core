@@ -107,7 +107,7 @@ def generate_summary(query_result: dict) -> str:
 
 막히는 부분이 있으면:
 
-1. **슬랙 #core-questions 채널**에 질문
+1. **팀 커뮤니케이션 채널**에 질문
 2. GitHub Issues에 버그 리포트
 3. 팀장에게 직접 연락 (긴급한 경우)
 

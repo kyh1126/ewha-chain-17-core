@@ -234,7 +234,7 @@ export GEMINI_API_KEY="your-api-key"
 
 ### Q: SQL을 잘 모르는데 괜찮나요?
 
-**A**: 템플릿 쿼리를 제공하니 주석을 읽고 이해하는 것부터 시작하세요. 막히면 슬랙 #core-questions 채널에 질문해주세요.
+**A**: 템플릿 쿼리를 제공하니 주석을 읽고 이해하는 것부터 시작하세요. 막히면 팀 커뮤니케이션 채널에 질문해주세요.
 
 **학습 순서**:
 1. `templates/sql/01_basic_exploration.sql` - 기본 문법
@@ -488,7 +488,7 @@ pip install -r requirements.txt
 
 막히는 부분이 있으면:
 
-1. **슬랙 #core-questions 채널**에 질문
+1. **팀 커뮤니케이션 채널**에 질문
 2. **GitHub Issues**에 버그 리포트
 3. **팀장에게 직접 연락** (긴급한 경우)
 
