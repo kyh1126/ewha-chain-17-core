@@ -1,0 +1,16 @@
+# Google Cloud X EWHA-CHAIN 17기 개발 프로그램
+# 필요한 Python 패키지
+
+# BigQuery 클라이언트 라이브러리
+google-cloud-bigquery>=3.11.0
+
+# Gemini API 클라이언트 라이브러리
+google-generativeai>=0.3.0
+
+# 환경 변수 관리 (.env 파일 사용)
+python-dotenv>=1.0.0
+
+# 선택적 패키지 (아래 주석 해제 후 pip install -r requirements.txt 재실행)
+# pandas>=2.0.0      # DataFrame 변환/분석 (to_dataframe() 사용 시 필요)
+# pyarrow>=14.0.0    # BigQuery → DataFrame 변환 가속 (pandas와 함께 권장)
+# streamlit>=1.28.0  # 웹 대시보드 (Extension 트랙 A 선택 시)
